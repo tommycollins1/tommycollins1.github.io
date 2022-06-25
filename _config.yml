@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Tommy Collins"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
+  bio              : "Doctoral Researcher in Computer Science"
+  location         : "Exeter"
+  employer         : "College of Engineering, Mathematics and Physical sciences, University of Exeter"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=MrSI6WMAAAAJ&hl=en"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : trc207@exeter.ac.uk
+  researchgate     :  "https://www.researchgate.net/profile/Thomas-Collins-4"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "www.linkedin.com/in/tommycollins1"
   orcid            : "https://orcid.org/0000-0003-1791-7002"
   pinterest        :
   soundcloud       :
