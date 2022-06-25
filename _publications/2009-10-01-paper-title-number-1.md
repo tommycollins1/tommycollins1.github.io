@@ -1,7 +1,7 @@
 ---
 title: "Herring gull aversion to gaze in urban and rural human settlements"
 collection: publications
-permalink: /publication/2020-10-01-herring-gulls-paper
+permalink: /publication/2020-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-10-01
 venue: 'Journal 1'
