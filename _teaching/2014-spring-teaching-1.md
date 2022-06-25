@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Shiny Futures"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Postgraduate 4-part short course"
+permalink: /teaching/2022-summer-teaching-1
+venue: "University of Exeter, Centre for Life and Environmental Sciences "
+date: 2022-06-20
+location: "Penryn, Cornwall"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
