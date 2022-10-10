@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Tommy Collins"
-  avatar           : "profile picture.jpg"
+  avatar           : "profile_picture.jpg"
   bio              : "Doctoral Researcher in Computer Science"
   #location         : "Exeter"
   employer         : "Department of Computer Science"
