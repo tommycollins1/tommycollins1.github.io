@@ -84,7 +84,7 @@ author:
   avatar           : "profile_picture.jpg"
   bio              : "Doctoral Researcher in Computer Science"
   #location         : "Exeter"
-  employer         : "Department of \n Computer Science"
+  # employer         : "Department of \n Computer Science"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=MrSI6WMAAAAJ&hl=en"
   email            : trc207@exeter.ac.uk
