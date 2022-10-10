@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Tommy Collins"
-  avatar           : "profile.png"
+  avatar           : "profile picture.jpg"
   bio              : "Doctoral Researcher in Computer Science"
-  location         : "Exeter"
+  #location         : "Exeter"
   employer         : "Department of Computer Science"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=MrSI6WMAAAAJ&hl=en"
   email            : trc207@exeter.ac.uk
-  researchgate     :  "https://www.researchgate.net/profile/Thomas-Collins-4"
+  researchgate     : "https://www.researchgate.net/profile/Thomas-Collins-4"
   uri              :
   bitbucket        :
   codepen          :
