@@ -16,4 +16,8 @@ I am working with [Federico Botta](https://computerscience.exeter.ac.uk/staff/fb
 
 ### Movement ecology
 
-Outside of CEMPS, I work with Mike Cant, and Dan Sankey within the Socialis Research group to model animal movement using continuous time movement modelling approaches to quantify the changes of home ranges. The aim of this project is to better understand the context related to collective behaviours of animals and the relationship collective behaviours have with the evolution of social behaviour in animals.
+Outside of CEMPS, I work with Mike Cant, and Dan Sankey within the [Socialis Research group](http://socialisresearch.org/) to model animal movement using continuous time movement modelling approaches to quantify the changes of home ranges. The aim of this project is to better understand the context related to collective behaviours of animals and the relationship collective behaviours have with the evolution of social behaviour in animals.
+
+### Animal cognition
+
+
