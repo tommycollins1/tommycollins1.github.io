@@ -3,7 +3,7 @@ title: "Spatiotemporal gender differences in urban vibrancy"
 collection: publications
 permalink: /publication/0000-00-00-spatiotemporal-differences-in-urban-vibrancy
 excerpt: 'Explores how urban vibrancy differs between genders and how this may contribute to gender segregation in cities. Suggestions for future research could be to further investigate the social and cultural factors that contribute to gender differences in urban vibrancy.'
-date: 0000-00-00
+date: 2020-10-01
 venue: 'With reviewer'
 paperurl: 'http://academicpages.github.io/files/spatiotemporal-differences-in-urban-vibrancy.pdf'
 citation: 'Collins , Thomas. (0000). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
