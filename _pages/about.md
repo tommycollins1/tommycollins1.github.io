@@ -8,20 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-### Collective behaviour ...
 
-Welcome to my research website. I am a Comuputational social sciences Doctoral Researcher based at the University of Exeter in the South West of UK.
+Welcome to my research website. I am a Doctoral Researcher based at the University of Exeter in the South West of UK. I work within the University of Exeter's [Faculty of Environment, Science, and Economy (FESE)](<https://www.exeter.ac.uk/research/ourfaculties/ese/>) in the  [Department of Computer Sciences](https://computerscience.exeter.ac.uk/research/).
 
-### ... and Human behaviour
+### Collective behaviour human behaviour...
+I am currently working to model urban environments using novel born-digital data sources (such as [Call Detail Record](https://en.wikipedia.org/wiki/Call_detail_record) data) to visualise human behaviour. My research focuses on the intersection of urban planning, data science, and technology, with a particular emphasis on the use of advanced analytics to inform decision-making and policy development to improve the health and well-being of people living in urban areas. My current research uses an interdisciplinary approach that incorporates Computational Social Sciences methodologies to analyse large data sources. The potential outputs of this research are an increased understanding of the relationship between urban vibrancy--the energetic activity in an urban environment--and gender segregation. Our work is funded by UK Research and innovation, which is a partnership program for postgraduate scholarships. Our work is funded by UK Research and innovation, which is a partnership program for postgraduate scholarships.
 
-I work within the University of Exeter's [Faculty of Environment, Science, and Economy (ESE)](<https://www.exeter.ac.uk/research/ourfaculties/ese/>) in the  [Department of Computer Sciences](https://computerscience.exeter.ac.uk/research/). Currently, I am working to model urban environments using novel born-digital data sources (such as mobile phone and internet data) to visualise human behaviour.
+### Movement ecology
+Outside of the FESE, I work within the [Socialis Research group](http://socialisresearch.org/) to model animal movement. To do this, I use *continuous time movement modelling* approaches to quantify the changes of home ranges. The aim of this animal movement data project is to better understand the context related to collective behaviours of animals and the relationship between collective behaviours and the evolution of social behaviour.
 
-My current research uses an interdisciplinary approach that incorporates network theory and computer sciences to analyse large data sources to better understand urban vibrancy; the energetic activity in an urban environment. The potential outputs of this are an understanding of how city size and urban morphology relates to social, environmental, health, or economic inequalities. Our work is funded by UK Research and innovation, which is a partnership program for postgraduate scholarships.
-
-### ... from Movement ecology
-
-Outside of the ESE, I work within the [Socialis Research group](http://socialisresearch.org/) to model animal movement. To do this, I use *continuous time movement modelling* approaches to quantify the changes of home ranges. The aim of this project is to better understand the context related to collective behaviours of animals and the relationship collective behaviours have with the evolution of social behaviour in animals.
-
-### ... in Urban life
-
-I have also investigated how urban life affects herring gull behaviour, diet, health and survival with [Project C-Gull](https://projectcgull.com/). 
+### Human-wildlife conflict
+In my previous work with [Project C-Gull](https://projectcgull.com/), I investigated how urban environments affects herring gull behaviour, diet, health and survival.
