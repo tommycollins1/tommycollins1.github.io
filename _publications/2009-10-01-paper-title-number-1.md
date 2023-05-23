@@ -5,7 +5,7 @@ permalink: /publication/2020-10-01-gull-behaviour-across-urban-locations
 excerpt: 'Explores how urban vibrancy differs between genders and how this may contribute to gender segregation in cities. Suggestions for future research could be to further investigate the social and cultural factors that contribute to gender differences in urban vibrancy.'
 date: 2020-10-01
 venue: 'Journal of Animal Behaviour'
-paperurl: 'http://academicpages.github.io/files/gull-behaviour-across-urban-locations.pdf'
+paperurl: 'https://tommycollins1.github.io/files/gull-behaviour-across-urban-locations.pdf'
 citation: 'Goumas, Madeleine. (2020). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 Human populations and urban settlements are expanding. As this happens, wild animals are often exposed to humans.
