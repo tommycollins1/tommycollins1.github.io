@@ -26,4 +26,4 @@ Before the PhD I spent time as a Research Data Officer at the Royal Cornwall Hos
 
 ### Get in touch
 
-The best way to reach me is by email at **trc207 [at] exeter.ac.uk**, or via [LinkedIn](https://www.linkedin.com/in/tommycollins1). My [CV](/cv/) and [Google Scholar profile](https://scholar.google.com/citations?user=MrSI6WMAAAAJ&hl=en) have the longer story.
+The best way to reach me is by email at **t.collins5 [at] exeter.ac.uk**, or via [LinkedIn](https://www.linkedin.com/in/tommycollins1). My [CV](/cv/) and [Google Scholar profile](https://scholar.google.com/citations?user=MrSI6WMAAAAJ&hl=en) have the longer story.
