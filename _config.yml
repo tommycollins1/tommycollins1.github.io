@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "Tommy Collins / Doctoral Researcher"
+title                    : "Thomas Collins / Applied Geospatial & Behavioural Data Specialist"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Thomas Collins"
+description              : &description "Applied geospatial and behavioural data specialist supporting evidence-based policy and strategic intelligence. Postdoctoral Researcher at the Centre for Environmental Intelligence, University of Exeter."
 url                      : https://tommycollins1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tommycollins1/tommycollins1.github.io"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Tommy Collins"
+  name             : "Thomas Collins"
   avatar           : "profile_piccy.png"
-  bio              : "Doctoral Researcher in Computer Science"
+  bio              : "Applied geospatial & behavioural data specialist. Postdoctoral Researcher, Centre for Environmental Intelligence, University of Exeter."
   #location         : "Exeter"
   # employer         : "Department of \n Computer Science"
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -109,7 +109,7 @@ author:
   # stackoverflow    : "https://stackoverflow.com/users/17934249/tommyc1" # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@ThomasC99070147"
+  twitter          :
   vine             :
   weibo            :
   xing             :
@@ -175,13 +175,7 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
   publications:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -209,15 +203,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
   # _publications
   - scope:
       path: ""
@@ -227,15 +212,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
   # _talks
   - scope:
       path: ""

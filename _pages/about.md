@@ -3,19 +3,27 @@ permalink: /
 title: ""
 excerpt: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
+I am an **applied geospatial and behavioural data specialist** working at the intersection of academic research and evidence-based policy. My work brings together statistical modelling, machine learning, GIS, and remote sensing to turn complex spatial and behavioural data into clear, actionable intelligence for strategic decision-making.
 
-Welcome to my research website. I am a Doctoral Researcher based at the University of Exeter in the South West of UK. I work within the University of Exeter's [Faculty of Environment, Science, and Economy (FESE)](<https://www.exeter.ac.uk/research/ourfaculties/ese/>) in the  [Department of Computer Sciences](https://computerscience.exeter.ac.uk/research/).
+I currently sit between academia and a professional analytical career — comfortable producing peer-reviewed research, but increasingly focused on delivering analysis that supports planning, risk assessment, and community resilience in the real world.
 
-### Collective behaviour human behaviour...
-I am currently working to model urban environments using novel born-digital data sources (such as [Call Detail Record](https://en.wikipedia.org/wiki/Call_detail_record) data) to visualise human behaviour. My research focuses on the intersection of urban planning, data science, and technology, with a particular emphasis on the use of advanced analytics to inform decision-making and policy development to improve the health and well-being of people living in urban areas. My current research uses an interdisciplinary approach that incorporates Computational Social Sciences methodologies to analyse large data sources. The potential outputs of this research are an increased understanding of the relationship between urban vibrancy--the energetic activity in an urban environment--and gender segregation. Our work is funded by UK Research and innovation, which is a partnership program for postgraduate scholarships. Our work is funded by UK Research and innovation, which is a partnership program for postgraduate scholarships.
+**Currently:** Postdoctoral Researcher at the [Centre for Environmental Intelligence](https://www.exeter.ac.uk/research/centres/environmental-intelligence/), University of Exeter — designing spatial and statistical analyses for environmental planning and Environmental Delivery Plans in partnership with Natural England and local planning authorities. *(Updated May 2026.)*
 
-### Movement ecology
-Outside the FESE, I work within the [Socialis Research group](http://socialisresearch.org/) to model animal movement. To do this, I use *continuous time movement modelling* approaches to quantify the changes of home ranges. The aim of this animal movement data project is to better understand the context related to collective behaviours of animals and the relationship between collective behaviours and the evolution of social behaviour.
+### What I work on
 
-### Human-wildlife conflict
-In my previous work with [Project C-Gull](https://projectcgull.com/), I investigated how urban environments affects herring gull behaviour, diet, health and survival.
+At the Centre for Environmental Intelligence I design and lead complex spatial analyses that integrate behavioural, environmental, demographic, and remotely sensed datasets. The work supports evidence-led environmental planning: assessing environmental risk, modelling the impact of development scenarios on protected sites and communities, and identifying future pressures relevant to long-term policy. A large part of the role involves translating technical findings into clear briefings for government agencies, local authorities, and interdisciplinary partners.
+
+### Research background
+
+My PhD (Computer Science, University of Exeter, 2021–2025) sat at the intersection of urban planning, data science, and computational social science. I built analytical workflows combining large-scale mobile phone mobility data, app usage data, remote sensing, GIS, and machine learning (Elastic Net, Random Forests, geographically weighted models) to identify environmental, infrastructural, and behavioural drivers of inequality, vulnerability, and urban activity. Two pieces of that work — on gender differences in urban vibrancy and on app usage as a signature of urban behaviour — are listed under [Publications](/publications/).
+
+Before the PhD I spent time as a Research Data Officer at the Royal Cornwall Hospitals Trust, managing sensitive clinical research datasets under Good Clinical Practice and NHS governance — experience that shapes how I approach data ethics and governance in everything I do now.
+
+### Get in touch
+
+The best way to reach me is by email at **trc207 [at] exeter.ac.uk**, or via [LinkedIn](https://www.linkedin.com/in/tommycollins1). My [CV](/cv/) and [Google Scholar profile](https://scholar.google.com/citations?user=MrSI6WMAAAAJ&hl=en) have the longer story.
