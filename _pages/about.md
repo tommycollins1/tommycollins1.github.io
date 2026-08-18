@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: ""
-excerpt: "About me"
+excerpt: "Applied geospatial and behavioural data specialist supporting evidence-based policy and strategic intelligence. Postdoctoral Researcher at the Centre for Environmental Intelligence, University of Exeter."
 author_profile: true
 redirect_from:
   - /about/
